@@ -1,0 +1,41 @@
+[
+{
+"id": 1,
+"domain": "Nursing Reasoning",
+"case": "A postoperative patient has increasing pain, tachycardia, low blood pressure, and a saturated dressing.",
+"question": "What should the nurse prioritize?",
+"expected_reasoning": [
+"Recognize possible bleeding",
+"Assess vital signs and surgical site",
+"Escalate immediately"
+],
+"gold_standard_answer": "The nurse should prioritize assessment for postoperative bleeding or hemorrhage. Immediate actions include assessing the dressing, vital signs, level of consciousness, pain, drainage amount, notifying the provider, and preparing for possible urgent intervention.",
+"difficulty": "Intermediate"
+},
+{
+"id": 2,
+"domain": "Nursing Reasoning",
+"case": "A patient receiving opioids becomes very drowsy with a respiratory rate of 7 breaths per minute.",
+"question": "What is the main concern?",
+"expected_reasoning": [
+"Recognize opioid-induced respiratory depression",
+"Prioritize airway and breathing",
+"Escalate care"
+],
+"gold_standard_answer": "The main concern is opioid-induced respiratory depression. The nurse should assess airway and breathing, stimulate the patient, check oxygen saturation, notify the provider or rapid response team, and prepare for reversal medication according to protocol.",
+"difficulty": "Advanced"
+},
+{
+"id": 3,
+"domain": "Nursing Reasoning",
+"case": "A diabetic patient is confused, sweating, shaky, and has a blood glucose of 48 mg/dL.",
+"question": "What should be done first?",
+"expected_reasoning": [
+"Recognize hypoglycemia",
+"Prioritize immediate glucose correction",
+"Reassess blood sugar"
+],
+"gold_standard_answer": "This is hypoglycemia. The first priority is to treat low blood glucose according to protocol, such as giving fast-acting carbohydrates if the patient can swallow safely or IV dextrose/glucagon if unable, followed by reassessment.",
+"difficulty": "Beginner"
+}
+]
