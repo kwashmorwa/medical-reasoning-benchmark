@@ -1,5 +1,3 @@
-# benchmarks/sepsis_benchmark.md
-
 # Sepsis Clinical Reasoning Benchmark
 
 ## Task
