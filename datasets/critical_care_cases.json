@@ -1,0 +1,41 @@
+[
+{
+"id": 1,
+"domain": "Critical Care",
+"case": "A 67-year-old ICU patient has fever, hypotension, tachycardia, elevated lactate, confusion, and reduced urine output.",
+"question": "What is the most likely clinical concern and what immediate actions should be prioritized?",
+"expected_reasoning": [
+"Recognize septic shock",
+"Identify hypotension and elevated lactate as signs of hypoperfusion",
+"Prioritize airway, breathing, circulation, fluids, cultures, antibiotics, and monitoring"
+],
+"gold_standard_answer": "The most likely concern is septic shock. Immediate priorities include ABC assessment, oxygen support if needed, IV access, fluid resuscitation, blood cultures, broad-spectrum antibiotics, lactate monitoring, urine output monitoring, and escalation to the critical care team.",
+"difficulty": "Intermediate"
+},
+{
+"id": 2,
+"domain": "Critical Care",
+"case": "A mechanically ventilated patient develops worsening oxygen saturation, increased work of breathing, and bilateral infiltrates on chest imaging.",
+"question": "What complication should be considered and what assessments are important?",
+"expected_reasoning": [
+"Consider acute respiratory distress syndrome",
+"Assess oxygenation and ventilator settings",
+"Monitor ABGs and escalate care"
+],
+"gold_standard_answer": "ARDS should be considered. Important assessments include oxygen saturation, ABG results, chest imaging, ventilator settings, lung compliance, hemodynamic status, and possible causes such as sepsis, pneumonia, aspiration, or trauma.",
+"difficulty": "Advanced"
+},
+{
+"id": 3,
+"domain": "Critical Care",
+"case": "An ICU patient receiving vasopressors has cold extremities, low urine output, and worsening mental status.",
+"question": "What do these findings suggest?",
+"expected_reasoning": [
+"Recognize poor perfusion",
+"Consider worsening shock",
+"Prioritize hemodynamic assessment"
+],
+"gold_standard_answer": "These findings suggest inadequate tissue perfusion and possible worsening shock. The patient requires urgent reassessment of blood pressure, MAP, lactate, urine output, vasopressor response, volume status, and escalation to the provider or rapid response team.",
+"difficulty": "Advanced"
+}
+]
