@@ -57,9 +57,3 @@ reports/       Summary findings
 
 Kware Wilfred
 AI Trainer | Critical Care Nurse
-
-## Disclaimer
-
-This repository is for educational, benchmarking, and AI evaluation purposes only. It does not provide medical advice, diagnosis, or treatment.
-
----
